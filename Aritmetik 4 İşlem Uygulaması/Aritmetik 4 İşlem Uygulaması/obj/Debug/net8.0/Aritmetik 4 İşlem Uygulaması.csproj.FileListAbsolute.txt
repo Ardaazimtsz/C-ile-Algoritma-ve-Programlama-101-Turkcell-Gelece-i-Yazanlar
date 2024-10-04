@@ -1,0 +1,14 @@
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.exe
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.deps.json
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.runtimeconfig.json
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.dll
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\bin\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.pdb
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.AssemblyInfoInputs.cache
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.AssemblyInfo.cs
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.dll
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\refint\Aritmetik 4 İşlem Uygulaması.dll
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.pdb
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\Aritmetik 4 İşlem Uygulaması.genruntimeconfig.cache
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Aritmetik 4 İşlem Uygulaması\Aritmetik 4 İşlem Uygulaması\obj\Debug\net8.0\ref\Aritmetik 4 İşlem Uygulaması.dll

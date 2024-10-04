@@ -1,0 +1,7 @@
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\bin\Debug\Algoritmik Mülakat Sorusu.exe.config
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\bin\Debug\Algoritmik Mülakat Sorusu.exe
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\bin\Debug\Algoritmik Mülakat Sorusu.pdb
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\obj\Debug\Algoritmik Mülakat Sorusu.csproj.AssemblyReference.cache
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\obj\Debug\Algoritmik Mülakat Sorusu.csproj.CoreCompileInputs.cache
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\obj\Debug\Algoritmik Mülakat Sorusu.exe
+C:\Users\arda_\OneDrive - subu.edu.tr\Masaüstü\C#\Algoritmik Mülakat Sorusu\Algoritmik Mülakat Sorusu\obj\Debug\Algoritmik Mülakat Sorusu.pdb
